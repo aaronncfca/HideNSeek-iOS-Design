@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface HSViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *myLabel;
+
 
 @end

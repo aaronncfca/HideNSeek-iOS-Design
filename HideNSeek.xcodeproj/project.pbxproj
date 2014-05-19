@@ -13,7 +13,6 @@
 		46F45B30191ACF3500F77223 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B2E191ACF3500F77223 /* InfoPlist.strings */; };
 		46F45B32191ACF3500F77223 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 46F45B31191ACF3500F77223 /* main.m */; };
 		46F45B36191ACF3500F77223 /* HSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 46F45B35191ACF3500F77223 /* HSAppDelegate.m */; };
-		46F45B39191ACF3500F77223 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B37191ACF3500F77223 /* Main_iPhone.storyboard */; };
 		46F45B3C191ACF3500F77223 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B3A191ACF3500F77223 /* Main_iPad.storyboard */; };
 		46F45B3F191ACF3500F77223 /* HSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46F45B3E191ACF3500F77223 /* HSViewController.m */; };
 		46F45B41191ACF3500F77223 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B40191ACF3500F77223 /* Images.xcassets */; };
@@ -22,6 +21,7 @@
 		46F45B4A191ACF3500F77223 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46F45B29191ACF3500F77223 /* UIKit.framework */; };
 		46F45B52191ACF3500F77223 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B50191ACF3500F77223 /* InfoPlist.strings */; };
 		46F45B54191ACF3500F77223 /* HideNSeekTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 46F45B53191ACF3500F77223 /* HideNSeekTests.m */; };
+		46F45B5D191AD00900F77223 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F45B37191ACF3500F77223 /* Main_iPhone.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -232,9 +232,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46F45B5D191AD00900F77223 /* Main_iPhone.storyboard in Resources */,
 				46F45B3C191ACF3500F77223 /* Main_iPad.storyboard in Resources */,
 				46F45B41191ACF3500F77223 /* Images.xcassets in Resources */,
-				46F45B39191ACF3500F77223 /* Main_iPhone.storyboard in Resources */,
 				46F45B30191ACF3500F77223 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
